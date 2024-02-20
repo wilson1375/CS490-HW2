@@ -1,6 +1,6 @@
 # CS490-Assignment2
 
-Results (1 epoch for both):</br>
+Results posted below, with 1 epoch each. Used `nbconvert` to convert Jupyter `.ipynb` to `.py` instead of using notebook.
 
 `python3 alexnet-p1.py`</br>
 cuda</br>
